@@ -9,9 +9,9 @@
 
 # regras de Negócio
 
--[x] Não pode ter cadastro com email repetido
--[x] O cadastro deve ser feito com payload {nome, email, senha, link_img}
--[x] só e permitido o login com email e senha existente
+- [x] Não pode ter cadastro com email repetido
+- [x] O cadastro deve ser feito com payload {nome, email, senha, link_img}
+- [x] só e permitido o login com email e senha existente
 
 # Requisitos nao funcionais
 
