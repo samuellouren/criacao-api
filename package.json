@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0",
+    "uuidv4": "^6.2.13"
+  },
+  "name": "api-pessoas2",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "- [x] O usuario deve poder se cadastrar na aplicação\r - [] O usuario deve poder fazer login na aplicação\r - [x] a aplicação deve listar todos os usuarios\r - [x] o usuario deve poder atualizar o seu cadastro\r - [x] o usuario deve poder excluir o seu cadastro\r - [x] o usuario deve poder selecionar um único cadastro",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
